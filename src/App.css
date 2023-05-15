@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p {
+  margin-bottom: 0;
+}
+.app {
+  width: 100%;
+  max-height: 100vh;
+  overflow: hidden;
+}

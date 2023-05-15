@@ -1,0 +1,15 @@
+.card-heading {
+  line-height: 24px !important;
+  font-size: 24px !important;
+  font-weight: 700 !important;
+  text-overflow: ellipsis !important;
+  color: rgba(41, 41, 41, 1) !important;
+  padding-bottom: 8px !important;
+  margin-bottom: 0 !important;
+}
+@media (max-width: 425px) {
+  .user-info span,
+  .user-info p {
+    font-size: 14px;
+  }
+}

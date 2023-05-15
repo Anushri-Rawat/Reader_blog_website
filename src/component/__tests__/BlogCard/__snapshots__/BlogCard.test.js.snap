@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="border-bottom"
+  data-testid="card"
+  style={
+    Object {
+      "marginTop": "24px",
+    }
+  }
+>
+  <div
+    className="d-flex align-items-center gap-3"
+    style={
+      Object {
+        "marginBottom": "1rem",
+      }
+    }
+  >
+    <img
+      alt="user-img"
+      className="rounded-circle"
+      src="/assets/1.jpeg"
+      style={
+        Object {
+          "height": "48px",
+          "width": "48px",
+        }
+      }
+    />
+    <div
+      className="d-flex flex-column user-info"
+    >
+      <div
+        className="d-flex gap-1 align-items-center"
+      >
+        <span>
+          Leanne Graham
+        </span>
+        <span
+          className="fs-4 fw-bolder mb-2 d-none d-sm-block"
+        >
+          .
+        </span>
+        <span
+          className="d-none d-sm-block"
+        >
+          @
+          Bret
+        </span>
+        <span
+          className="fs-4 fw-bolder mb-2"
+        >
+          .
+        </span>
+        <span>
+          May 13
+        </span>
+      </div>
+      <p
+        className="mb-0"
+      >
+        Multi-layered client-server neural-net
+      </p>
+    </div>
+  </div>
+  <div
+    className="d-flex flex-column"
+  >
+    <h2
+      className="card-heading"
+    >
+      sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+    </h2>
+    <p
+      className="mb-0"
+    >
+      quia et suscipit
+suscipit recusandae consequuntur expedita et cum
+reprehenderit molestiae ut ut quas totam
+nostrum rerum est autem sunt rem eveniet architecto
+    </p>
+  </div>
+  <div
+    className="d-flex justify-content-between"
+    style={
+      Object {
+        "padding": "32px 0",
+      }
+    }
+  >
+    <div
+      className="d-flex gap-3 align-items-center"
+    >
+      <button
+        className="border-0"
+        style={
+          Object {
+            "borderRadius": "100px",
+            "padding": "2px 20px",
+          }
+        }
+      >
+        React
+      </button>
+      <span
+        className="text-secondary"
+      >
+        4 min read
+      </span>
+    </div>
+    <button
+      className="btn btn-outline-secondary"
+      onClick={[Function]}
+    >
+      Delete
+    </button>
+  </div>
+</div>
+`;

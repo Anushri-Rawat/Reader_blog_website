@@ -1,0 +1,23 @@
+.title {
+  margin: 24px 0 0;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.articles-container {
+  overflow-y: scroll;
+  height: 100vh;
+  padding-right: 2rem;
+}
+.btn:hover {
+  background: white !important;
+  color: #6c757d !important;
+}
+@media (max-width: 425px) {
+  .title {
+    margin: 10px 0 0;
+  }
+  .articles-container {
+    padding-right: 0;
+  }
+}
